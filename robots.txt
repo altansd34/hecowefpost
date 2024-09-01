@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hecowefpost.pages.dev/sitemap.xml
